@@ -1,0 +1,62 @@
+body {
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+.glyphicon-home {
+	font-size: 20px;
+}
+.navbar {
+	border-radius: 0px;
+	padding:0px;
+}
+.nav-item {
+	margin-right: 75px;
+}
+.head-Manipulate {
+	color:#000;
+	display: inline-block !important;
+	margin:0px;
+	padding: 0px;
+
+}
+.row > .form-control {
+	padding: 22px;
+	background: rgba(0,0,0,0.6);
+	margin-left: 10px;
+	border:0px;
+	color:white;
+}
+.container {
+	width: 90%;
+}
+.data {
+	display: inline-block;
+	width:17%;
+	height:400px;
+	margin:10px;
+	background: white;
+	border-radius: 2px;
+	color:black;
+
+}
+.data:hover {
+	box-shadow:5px 5px 25px;
+}
+.data-img {
+	width: 100%;
+	min-height:50%;
+	max-height: 50%;
+	background-size: 100% 100% !important;
+}
+.data > h3 {
+	text-align: left;
+	padding: 15px;
+	font-size: 17px;
+	font-weight: bold;
+	margin:0px;
+}
+.data > p {
+	text-align: left;
+	padding: 15px;
+	font-size: 12px;
+}
